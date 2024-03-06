@@ -1,46 +1,15 @@
-# Getting Started with Create React App
+**1. To work with this project clone this repository via git clone [https or ssh].**
+**2. You will get our default staging branch. To code your features checkout from staging branch via git checkout -b <branch-name>. Then make commits, push them, and create pull request to merge this branch with the staging branch.**
+**3. Once the pull request is approved and merged, test your features on the staging branch, and make sure there are no bugs related with your commits. If there are bugs, fix them. If everything is fine, create a pull request to merge the updated staging with the main branch.**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   **Branch naming example**
+<img width="836" alt="Screenshot 2024-02-26 at 13 54 48" src="https://github.com/SierraCSWebDev/WebsiteProject/assets/93590594/128f4822-9225-4c6e-8cd5-cd8b2c5643d4">
+Link to website: https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534
 
-## Available Scripts
+  **Commit naming example**
+<img width="915" alt="Screenshot 2024-02-26 at 13 57 40" src="https://github.com/SierraCSWebDev/WebsiteProject/assets/93590594/c8f39c25-86ea-4021-83af-e0bf444ddc47">
 
-In the project directory, you can run:
+Link to website: https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+  **Also, don't forget to install the prettier formatter extenshion and make sure it works.**
+<img width="732" alt="Screenshot 2024-03-06 at 12 57 02" src="https://github.com/SierraCSWebDev/WebsiteProject/assets/93590594/d449f8a3-a0db-4ee0-a883-51d4ee91fb76">
