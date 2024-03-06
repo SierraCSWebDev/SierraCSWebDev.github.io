@@ -1,6 +1,8 @@
-**1. To work with this project clone this repository via git clone [https or ssh].**  
-**2. You will get our default staging branch. To code your features checkout from staging branch via git checkout -b <branch-name>. Then make commits, push them, and create pull request to merge this branch with the staging branch. Add screenshoots of your feature into pull request**  
-**3. Once the pull request is approved and merged, test your features on the staging branch, and make sure there are no bugs related with your commits. If there are bugs, fix them. If everything is fine, create a pull request to merge the updated staging with the main branch.**  
+  **1. To work with this project clone this repository via git clone [https or ssh].**  
+  
+  **2. You will get our default staging branch. To code your features checkout from staging branch via git checkout -b <branch-name>. Then make commits, push them, and create pull request to merge this branch with the staging branch. Add screenshoots of your feature into pull request**  
+  
+  **3. Once the pull request is approved and merged, test your features on the staging branch, and make sure there are no bugs related with your commits. If there are bugs, fix them. If everything is fine, create a pull request to merge the updated staging with the main branch.**  
 
    **Branch naming example**
 <img width="836" alt="Screenshot 2024-02-26 at 13 54 48" src="https://github.com/SierraCSWebDev/WebsiteProject/assets/93590594/128f4822-9225-4c6e-8cd5-cd8b2c5643d4">
