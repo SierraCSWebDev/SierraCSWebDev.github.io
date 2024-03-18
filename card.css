@@ -1,0 +1,40 @@
+.card{
+    margin: 30px;
+    border-top: 7px solid #b11b1e;
+    border-bottom: 7px solid #b11b1e;
+    width: 97%;
+    margin-inline: auto;
+}
+
+.heading{
+    margin: 5px;
+}
+
+.member {
+    margin: 12px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.member-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.member-card img{
+    margin: 10px;
+    width: 60%;
+    border-radius: 200px;
+    margin-inline: auto;
+}
+
+.member-card h3{
+    
+    margin-bottom: 40px;
+    margin-inline: auto;
+    width: fit-content;
+    height: fit-content;
+}
