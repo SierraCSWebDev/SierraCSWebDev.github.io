@@ -1,9 +1,9 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Card from './card.jsx';
-import Footer from './Footer/Footer.jsx';
-import Menu from './Menu/Menu.jsx';
+import Footer from './Footer.jsx';
+import Menu from './Menu.jsx';
 import Mission from './Mission.jsx';
-import Project from './Projects/Project.jsx';
+import Project from './Project.jsx';
 
 function App() {
   return (
