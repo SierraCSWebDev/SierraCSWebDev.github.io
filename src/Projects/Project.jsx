@@ -29,8 +29,8 @@ function Project(){
 
                 <ProjectCard icon="/ml.png" heading="Machine Learning" info="Join to learn about Machine Learning with the Python programming language!"/>
 
-                <ProjectCard icon="/scpe.png" heading="Competitive Programming" info="Learn to solve coding problems on LeetCode and
-                            prepare for upcoming Competitive Programming Contest."/>
+                <ProjectCard icon="/scpe.png" heading="Competitive Programming" info="Practice your critical thinking skills with coding challenges.
+                Compete in the annual SCPE!"/>
 
                 <ProjectCard icon="/llm.png" heading="Sierra LLM" info="Build a Large Language Model, like ChatGPT, focused on helping Sierra College
                             students find information about classes and transferring."/>
