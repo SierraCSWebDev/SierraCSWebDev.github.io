@@ -15,23 +15,29 @@ function Menu(){
                         <Link to='/'><img src="/club-icon.svg"/></Link>
                         <Link to='/'>Sierra CS Club</Link>
                     </li>
-                    <ul className='nav'>
-                        <li>
-                            <Link to='/'>Home</Link>
-                        </li>
-                        <li>
-                            <Link to='/about-us'>About Us</Link>
-                        </li>
-                        <li>
-                            <Link to=''>Events</Link>
-                        </li>
-                        <li>
-                            <Link to='/project'>Projects</Link>
-                        </li>
-                        <li>
-                            <Link to=''>Tutoring</Link>
-                        </li>
-                    </ul>
+
+                    <li className='dropdown'>
+                        <li>Menu</li>
+                        <div className='content'>
+                            <ul className='list'>
+                                <li>
+                                    <Link to='/'>Home</Link>
+                                </li>
+                                <li>
+                                    <Link to='/about-us'>About Us</Link>
+                                </li>
+                                <li>
+                                    <Link to=''>Events</Link>
+                                </li>
+                                <li>
+                                    <Link to='/project'>Projects</Link>
+                                </li>
+                                <li>
+                                    <Link to=''>Tutoring</Link>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
                 </ul>
             </div>
             <Outlet/>
