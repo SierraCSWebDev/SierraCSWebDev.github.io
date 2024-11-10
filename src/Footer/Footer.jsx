@@ -8,7 +8,7 @@ function Footer(){
                     <p>
                     5100 Sierra College Blvd<br></br>
                     Rocklin, CA 95677<br></br><br></br>
-                    Neil Enterprises
+                    &copy Neil Enterprises
                     </p>
                 </div>
 
