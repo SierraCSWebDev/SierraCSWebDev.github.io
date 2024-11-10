@@ -22,16 +22,18 @@
 }
 
 .box ul{
+    list-style-type: none;
+}
+
+.box li{
+    color: white;
+}
+
+.menu {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding-left: 0px;
-}
-
-.menu ul{
-    list-style-type: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .menu img{
@@ -47,15 +49,61 @@
     flex-direction: row;
 }
 
-.box a{
+.box .menu .top-corner a{
     text-decoration: none;
     color: white;
     padding: 10px 20px;
     text-align: center;
-    transition: 0.7s;
 }
 
 .nav li a:hover{
     background-color: white;
     color: red;
+}
+
+.dropdown{
+    padding: 10px;
+    cursor: pointer;
+}
+
+.dropdown:hover .content{
+    display:block;
+}
+
+.content{
+    position: absolute;
+    display: none;
+}
+
+.content ul{
+    background-color: #cd1215;
+    margin-top: 10px;
+    margin-inline: -45px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0px 0px;
+    box-shadow: -2px 2px black;
+}
+
+.list li:hover{
+    background-color: white;
+}
+
+.list li:hover a{
+    color: red;
+}
+
+.list li{
+    border: 1px solid black;
+    padding: 12px 0px;
+    transition: 0.5s;
+}
+
+.list a{
+    border: 1px solid black;
+    text-decoration: none;
+    color: white;
+    padding: 12px 38px 12px 12px;
 }
