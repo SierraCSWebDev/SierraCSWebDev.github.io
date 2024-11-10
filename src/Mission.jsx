@@ -25,10 +25,6 @@ function Mission(){
             <div className='background-pic'>
                     <h1>WELCOME TO OUR CLUB</h1>
             </div>
-            
-            <div>
-                <h1 id='headline'>This Website is Still in Development.</h1>
-            </div>
 
             <div className='news'>
 
